@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "asp.net",
+			"path": "."
+		},
+		{
+			"name": "Lesson1",
+			"path": "..\\..\\.net\\Lesson1"
+		}
+	],
+	"settings": {}
+}
